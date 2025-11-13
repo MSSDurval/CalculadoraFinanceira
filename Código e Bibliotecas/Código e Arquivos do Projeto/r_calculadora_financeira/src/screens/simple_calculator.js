@@ -13,8 +13,13 @@ function SimpleCalculatorScreen({navigation}) {
                 <Text style={styles.titulo_principal}>Juros Simples</Text>
             </View>
 
+            
             <label>
-                <text style={styles.text_labels}>Valor Inicial (R$): </text>
+                <Text style={styles.text_labels}>Valor Inicial (R$):</Text>
+                <Text style={styles.text_labels}>Taxa de Juros(%):</Text>
+            </label>
+            <label>
+                <input style={styles.input_fields} />
                 <input style={styles.input_fields} />
             </label>
 

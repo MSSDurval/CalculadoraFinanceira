@@ -4,7 +4,7 @@ import { StyleSheet, TouchableOpacity} from 'react-native';
 export default StyleSheet.create({
 
   container_tab: {
-    flex:1, 
+    flex:0.85, 
     display: 'flex',  
     flexwrap: 'wrap',
     alignItems: 'center',
@@ -12,7 +12,7 @@ export default StyleSheet.create({
   },
 
   container_jurossimples: {
-    flex:1,
+    flex:0.85,
     display: 'flex',  
     flexwrap: 'wrap',
     justifyContent: 'center',
@@ -21,7 +21,7 @@ export default StyleSheet.create({
 
   container_juroscompostos: {
     margin: 20,
-    flex:1,
+    flex:0.85,
     display: 'flex',  
     flexwrap: 'wrap',
     justifyContent: 'center',
@@ -30,6 +30,7 @@ export default StyleSheet.create({
 
   container_historico: {
     margin: 20,
+    flex:0.85,
     display: 'flex',
     flexwrap: 'wrap',
     alignItems: 'center',
@@ -71,17 +72,18 @@ export default StyleSheet.create({
 
   text_labels:{
     fontFamily: 'Arial',
-    fontSize: 16,
+    fontSize: 12,
     fontWeight: 'bold',
-    marginBottom: 5,
+    marginRight: 50,
   },
 
   input_fields:{
     height: 20,
-    
+    width: 130,
     borderColor: 'gray',
     borderWidth: 1,
-    marginBottom: 15,
     borderRadius: 5,
+    marginBottom: 15,
+    marginRight: 10,
   },
 });
