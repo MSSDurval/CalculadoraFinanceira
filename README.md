@@ -50,10 +50,13 @@ Também será comparada a facilidade de uso e a curva de aprendizado dos usuári
 ## 3. ENCERRAMENTO DO PROJETO
 
 ### 1. Evidências das atividades realizadas
-A ferramenta Calculadora de Juros pode ser conferida pelas imagens abaixo e também via GitHub:
+A ferramenta Calculadora de Juros pode ser conferida pelas imagem abaixo e também via GitHub:
 
 **Repositório GitHub:**  
 https://github.com/MSSDurval/WebApp-Calculadora-Financeira
+
+**Imagens do Projeto:**
+Design do Aplicativo/Design Final
 
 ---
 
@@ -69,6 +72,12 @@ Matheus de Souza Santos Durval
 
 **PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS EM ANDROID  - MATHEUS DE SOUZA SANTOS DURVAL  
 (202208867588) - PERÍODO: (2025.3 EAD)**
+
+
+
+
+
+
 
 
 ![Screenshot_20251128-230439_Expo Go](https://github.com/user-attachments/assets/fe39d0ad-107f-44a7-b801-98e9de7516f2)
