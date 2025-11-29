@@ -53,10 +53,12 @@ Também será comparada a facilidade de uso e a curva de aprendizado dos usuári
 A ferramenta Calculadora de Juros pode ser conferida pelas imagem abaixo e também via GitHub:
 
 **Repositório GitHub:**  
+
 https://github.com/MSSDurval/WebApp-Calculadora-Financeira
 
 **Imagens do Projeto:**
-Design do Aplicativo/Design Final
+
+[Design do Aplicativo/Design Final](https://github.com/MSSDurval/CalculadoraFinanceira/tree/ff13f2bfc5af352861f6ac58032f53dc1db4c45f/Design%20do%20Aplicativo/Design%20Final)
 
 ---
 
