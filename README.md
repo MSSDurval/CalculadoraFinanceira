@@ -1,6 +1,5 @@
 # _Calculadora Financeira_
 
-
 ## 1. DIAGNÓSTICO E TEORIZAÇÃO
 
 ### 1. Identificação das partes envolvidas e parceiros
@@ -56,11 +55,6 @@ A ferramenta Calculadora de Juros pode ser conferida pelas imagens abaixo e tamb
 **Repositório GitHub:**  
 https://github.com/MSSDurval/WebApp-Calculadora-Financeira
 
-**Anexos:**  
-https://projects-files.grupoa.education/3913203_Screenshot_20251128-230447_ExpoGo.jpg  
-https://projects-files.grupoa.education/3913203_Screenshot_20251128-230439_ExpoGo.jpg  
-https://projects-files.grupoa.education/3913203_Screenshot_20251128-230454_ExpoGo.jpg  
-
 ---
 
 ### Termo de responsabilidade  
@@ -75,3 +69,6 @@ Matheus de Souza Santos Durval
 
 **PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS EM ANDROID  - MATHEUS DE SOUZA SANTOS DURVAL  
 (202208867588) - PERÍODO: (2025.3 EAD)**
+
+
+![Screenshot_20251128-230439_Expo Go](https://github.com/user-attachments/assets/fe39d0ad-107f-44a7-b801-98e9de7516f2)
