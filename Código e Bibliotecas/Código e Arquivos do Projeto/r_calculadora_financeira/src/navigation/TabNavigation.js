@@ -10,11 +10,11 @@ const Tab = createBottomTabNavigator();
 
 export default function TabNavigator() {
     return(
-    <Tab.Navigator initialRouteName='Inicio'>
+    <Tab.Navigator initialRouteName='Inicio' screenOptions={{ headerShown: false }}>
         <Tab.Screen name='Inicio' component={HomeScreen} />
         <Tab.Screen name='Juros Simples' component={SimpleCalculatorScreen} />
         <Tab.Screen name='Juros Compostos' component={ComposteCalculatorScreen} />
-        <Tab.Screen name='Histórico' component={HistoryScreen} />
+        {/* <Tab.Screen name='Histórico' component={HistoryScreen} /> */}
     </Tab.Navigator>
         
     );
